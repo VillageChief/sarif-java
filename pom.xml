@@ -12,6 +12,28 @@
     <java.version>1.8</java.version>
   </properties>
 
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Barys Yakavita</name>
+      <email>barys.yakavita@codescan.io</email>
+      <organization>CodeScan Enterprises LLC</organization>
+      <organizationUrl>https://codescan.io</organizationUrl>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:git://github.com/VillageChief/sarif-java.git</connection>
+    <developerConnection>scm:git:ssh://github.com:VillageChief/sarif-java.git</developerConnection>
+    <url>http://github.com/VillageChief/sarif-java/tree/master</url>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
