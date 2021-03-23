@@ -1,3 +1,5 @@
+test
+
 # sarif-java
 
 The `sarif-java` library contains POJO classes used to build SARIF model. 
